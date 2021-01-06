@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box !important;
+    
+}
+body{
+    background-color:#9b59b6;
+}
+label{
+    color:white;
+    font-weight: 500px;
+}
+legend{
+    font-weight: bolder;
+}
